@@ -343,9 +343,21 @@
     justify-content: space-between;
 }
 .baixar {
-    width: 45%;
+    width: 35%;
     height: 90%;
+    font-size: 90%;
     background-color: #e8f1f2;
+    border-radius: 10px;
+    border: 1px solid #247ba0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.comprar {
+    width: 60%;
+    height: 90%;
+    font-size: 90%;
+    background-color: #23f74a;
     border-radius: 10px;
     border: 1px solid #247ba0;
     display: flex;
